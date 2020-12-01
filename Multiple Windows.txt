@@ -1,1 +1,8 @@
-Hello :)
+Creating Multiple Windows
+
+First thing you need is a nav bar, you can make a nav bar by adding a container to put the buttons by and using 
+<TouchableHighlight style={styles.navButton}>
+  <Text style= {styles.paragraph}>
+  Previous Page
+  </Text>
+ </TouchableHighlight>
